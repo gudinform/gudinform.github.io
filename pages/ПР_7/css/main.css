@@ -1,0 +1,15 @@
+.top  {
+    height: 200px; 
+    background-image: url(../img/Ferrari1.png);
+    color: gold;
+}
+
+section {
+    margin: 30px;
+}
+
+.ancor {
+    background-color: crimson;
+    padding: 10px 20px;
+    color: azure;
+}

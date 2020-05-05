@@ -1,0 +1,67 @@
+.header   {
+    background-image: url(../img/koenigsegg-jesko-red-cherry-edition.jpg);
+    min-height: 1000px;
+    background-size: cover;
+    background-position: center;
+}
+
+li{
+    display: inline-block;
+    margin-right: 50px; 
+}
+
+
+li a {
+    color: cyan;
+    text-transform: uppercase;
+}
+
+li a:hover {
+    color: aquamarine;
+}
+
+
+.menu {
+    position: relative;
+    top: 50px;
+}
+
+
+.main-flex    {
+    display: flex;
+    min-height: 850px;
+}
+
+
+
+.second-flex {
+    margin:auto; 
+}
+
+
+.main-title {
+    text-align: center;
+    color:palegreen;
+}
+
+
+.main-title a {
+   background-color: coral;
+    padding: 20px; 60px;
+    border-radius: 10px;
+    color: forestgreen;
+}
+
+
+h4{
+    margin-bottom: 40px;
+    font-size: 2em;
+}
+
+
+h1{
+    margin-bottom: 40px;
+    font-size: 4em;
+}
+
+
